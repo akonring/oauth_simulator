@@ -2,7 +2,7 @@
 
 ```bash
 npm install
-node auth_server.js
+node oauth_server.js &
 npm start
 ```
 
